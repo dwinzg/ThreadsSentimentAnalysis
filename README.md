@@ -1,3 +1,3 @@
 # ThreadsSentimentAnalysis
 Sentiment Analysis for Threads dataset 
-(will need to update, factory reset computer and file did not transfor over and upload to GitHub, # missing pieces)
+(Error with Jupyterlab, will need to upload rest of files when fixed!)
