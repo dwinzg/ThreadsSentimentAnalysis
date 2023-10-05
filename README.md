@@ -1,3 +1,5 @@
 # ThreadsSentimentAnalysis
 Sentiment Analysis for Threads dataset 
-(Error with Jupyterlab, will need to upload rest of files when fixed!)
+  Please refer to ThreadsSentimentAnalysis.ipynb for the Data Exploration
+  sentiment_ui.py provides an user interface to test strings
+  </code>ThreadsBERT.py</code> is for fine-tuning BERT model for the same analysis
